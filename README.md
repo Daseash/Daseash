@@ -1,5 +1,5 @@
 
-GIThub COntibution
+GitHub contrii
 <!--
 **Daseash/Daseash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/Daseash/Daseash/blob/output/github-snake-dark.svg)
