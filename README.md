@@ -7,7 +7,9 @@
 ---
 
 <div align="center">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daseash/Daseash/main/path/to/your/avatar.gif" alt="Eashwar's Pixel Avatar" width="150"/>
+</p>
   <!-- Pixel Art Animated Avatar Header -->
   <a href="https://github.com/Daseash">
     <img src="YOUR_PIXEL_AVATAR_GIF_URL" width="140" height="140" style="border-radius: 50%;" alt="Pixel Avatar" />
