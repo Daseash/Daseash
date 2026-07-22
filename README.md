@@ -1,4 +1,4 @@
-# Hi there, I'm <EASHWAR_DAS> 👋
+# Hi there, I'm <EASHWAR DAS> 👋
 
 
 
