@@ -4,7 +4,7 @@
 
 ### 🛠️ Languages & Tools
 
-[![Skill Icons](https://skillicons.dev/icons?i=cpp,js,html,css,react,git,github,vscode,linux,electron,bootstrap,discord)](https://github.com/tandpfun/skill-icons)
+[![Skill Icons](https://skillicons.dev/icons?i=cpp,js,html,css,react,git,github,vscode,linux,electron,bootstrap,discord,antigravity)](https://github.com/tandpfun/skill-icons)
 
 
 
