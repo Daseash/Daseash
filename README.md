@@ -1,5 +1,5 @@
 # Hi there, I'm Eashwar Das 👋
-## IIT INDORE'29 Student
+## IIT INDORE'29 Sophomore
 
 
 
